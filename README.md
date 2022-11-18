@@ -19,7 +19,7 @@ I also had the opportunity to explore many technologies that I have not fully ma
 With my teamates from 42 we won two prizes at ETHBrno in a privacy oriented hackaton (The overall hackaton prize & the design prize) with a privacy oriented wallet using TOR.
 
  -    [Brume Wallet](https://github.com/Piamias-Victor/brume-wallet)  / First privacy native Ethereum wallet based on a built-in integration of TOR
- -   [Brume Logs](https://github.com/Piamias-Victor/brume-wallet)  / A website to present the project, the problem solved and its solution
+ -   [Brume Logs](https://github.com/Piamias-Victor/brume-logs)  / A website to present the project, the problem solved and its solution
  -    [Brume UI](https://github.com/Piamias-Victor/Brume-UI)  / A more global and complete version of the wallet interface
 
 

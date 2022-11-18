@@ -21,6 +21,8 @@ With my teamates from 42 we won two prizes at ETHBrno in a privacy oriented hack
  -    [Brume Wallet](https://github.com/Piamias-Victor/brume-wallet)  / First privacy native Ethereum wallet based on a built-in integration of TOR
  -   [Brume Logs](https://github.com/Piamias-Victor/brume-logs)  / A website to present the project, the problem solved and its solution
  -    [Brume UI](https://github.com/Piamias-Victor/Brume-UI)  / A more global and complete version of the wallet interface
+ 
+ You can find the organization page of our project here: [github.com/brume-wallet](https://github.com/brume-wallet)
 
 
 I also realized many projects during my studies in 42 school. They allowed me to have a solid mastery of C and C++, algorithms, clean code and lots of good practices to be a more efficient developer, here are the most relevant

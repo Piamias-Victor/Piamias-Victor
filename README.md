@@ -30,5 +30,5 @@ I also realized many projects during my studies in 42 school. They allowed me to
  -    [Containers](https://github.com/Piamias-Victor/Containers)  / Recreating C++ libraries (map, vector, stack, pair...)
  -   [IRC](https://github.com/Piamias-Victor/IRC)  / Complete creation of an IRC chat, creation of channel, message, friends list.
  -   [Cube3D](https://github.com/Piamias-Victor/Cube3D)  / Recreating of the Wolfenstein game, use of ray casting.
- -    [Minishell](https://github.com/Piamias-Victor/Cube3D)  / Recreating of a shell, parsing of execution commands (file/folder creation, navigation, manipulation).
+ -    [Minishell](https://github.com/Piamias-Victor/Minishel)  / Recreating of a shell, parsing of execution commands (file/folder creation, navigation, manipulation).
  -  [Inception](https://github.com/Piamias-Victor/Inception)  / Setting up a website with the use of docker

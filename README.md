@@ -15,7 +15,7 @@ During my studies and my first experiences I was able to acquire a **very good m
 
 I also had the opportunity to explore many technologies that I have not fully mastered yet but on which I can perform basic tasks or train to be independent on it : **Rust / Web Assembly / Solidity / The Graph**
 
-## My Project 🏗️
+## My Projects 🏗️
 
 With my teamates from 42 we **won two prizes at ETHBrno** in a privacy oriented hackaton (The overall hackaton prize & the design prize) with a privacy oriented wallet using TOR.
 

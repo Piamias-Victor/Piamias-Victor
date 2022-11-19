@@ -1,5 +1,5 @@
 
-## Who I am ? 👨‍💻
+## Who am I ? 👨‍💻
 I'm Victor Piamias, **Front-End developer** working in the **crypto environment and more especially in privacy**. I am very curious, I love to learn and discover new technologies !
 
 I'm a graduate of the **42 school in Paris**, with my teammates we completed the course in 5 months, after that we worked as freelancers for different protocols.

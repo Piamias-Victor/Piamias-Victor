@@ -17,7 +17,7 @@ I also had the opportunity to explore many technologies that I have not fully ma
 
 ## My Project 🏗️
 
-With my teamates from 42 we won two prizes at ETHBrno in a privacy oriented hackaton (The overall hackaton prize & the design prize) with a privacy oriented wallet using TOR.
+With my teamates from 42 we **won two prizes at ETHBrno** in a privacy oriented hackaton (The overall hackaton prize & the design prize) with a privacy oriented wallet using TOR.
 
  -    [Brume Wallet](https://github.com/Piamias-Victor/brume-wallet)  / First privacy native Ethereum wallet based on a built-in integration of TOR
  -   [Brume Logs](https://github.com/Piamias-Victor/brume-logs)  / A website to present the project, the problem solved and its solution
@@ -28,7 +28,7 @@ With my teamates from 42 we won two prizes at ETHBrno in a privacy oriented hack
 
 
 
-I also realized many projects during my studies in 42 school. They allowed me to have a solid mastery of C and C++, algorithms, clean code and lots of good practices to be a more efficient developer, here are the most relevant
+I also realized many projects during my studies in 42 school. They allowed me to have a solid mastery of **C and C++, algorithms, clean code** and lots of good practices to be a more efficient developer, here are the most relevant
 
  -    [Transcendance](https://github.com/Piamias-Victor/transcendance)  / Final project of the 42 school, a complete pong game, website, database, account creation, online games.
  -   [Reach3](https://github.com/Piamias-Victor/Reach3)  / 4th place for Starton hackaton of 42 school, NFT mint to validate a degree.

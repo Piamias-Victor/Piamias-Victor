@@ -1,11 +1,11 @@
 
 ## Who I am ? 👨‍💻
-I'm Victor Piamias, **Front-End developer** working in the **crypto environment and more especially in privacy**. I am very curious, love to learn and discover about all kinds of technologies !
+I'm Victor Piamias, **Front-End developer** working in the **crypto environment and more especially in privacy**. I am very curious, I love to learn and discover new technologies !
 
 I'm a graduate of the **42 school in Paris**, with my teammates we completed the course in 5 months, after that we worked as freelancers for different protocols.
 
 Now I'm looking for a Front-End developper job in the crypto environment and if possible in relation with privacy.
-You can find all my profile on my [portfolio](https://piamias-victor-iota.vercel.app/)
+You can find all my work on my [portfolio](https://piamias-victor-iota.vercel.app/)
 
 ## What I am building ? 👷‍♂️
 

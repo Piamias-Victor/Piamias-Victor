@@ -5,6 +5,7 @@ I'm Victor Piamias, **Front-End developer** working in the **crypto environment 
 I'm a graduate of the **42 school in Paris**, with my teammates we completed the course in 5 months, after that we worked as freelancers for different protocols.
 
 Now I'm looking for a Front-End developper job in the crypto environment and if possible in relation with privacy.
+You can find all my profile on my [portfolio](https://piamias-victor-iota.vercel.app/)
 
 ## What I am building ? 👷‍♂️
 

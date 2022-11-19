@@ -7,7 +7,7 @@ I'm a graduate of the **42 school in Paris**, with my teammates we completed the
 Now I'm looking for a Front-End developper job in the crypto environment and if possible in relation with privacy.
 You can find all my work on my [portfolio](https://piamias-victor-iota.vercel.app/)
 
-## What I am building ? 👷‍♂️
+## What am I building ? 👷‍♂️
 
 My favorite technologies are the following : **JS / TS / React / HTML / CSS**.
 
